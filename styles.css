@@ -1,0 +1,17 @@
+footer {
+  text-align: center;
+}
+
+head {
+  display: none;
+}
+body {
+  background: #f8e8a6;
+  display: block;
+  margin: 8px;
+}
+
+h1,
+p {
+  text-align: center;
+}
